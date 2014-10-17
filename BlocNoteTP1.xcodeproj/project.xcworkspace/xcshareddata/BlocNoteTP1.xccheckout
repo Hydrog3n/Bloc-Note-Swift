@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>00319EDF-2DFC-4542-8D36-E7F533C6B90B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BlocNoteTP1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>dc4f144f-fbb8-4dd8-b08f-fa5b1847c913</key>
+		<string>http://svn.hydrog3n.fr/svn/Banque</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cours/cours epsi/B2/Swift:iOs/TP/BlocNoteTP1/BlocNoteTP1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>dc4f144f-fbb8-4dd8-b08f-fa5b1847c913</key>
+		<string>../../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>dc4f144f-fbb8-4dd8-b08f-fa5b1847c913</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>dc4f144f-fbb8-4dd8-b08f-fa5b1847c913</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dropbox</string>
+		</dict>
+	</array>
+</dict>
+</plist>
